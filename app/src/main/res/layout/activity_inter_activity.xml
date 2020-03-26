@@ -1,0 +1,137 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/cvr3"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+                <Button
+                    android:id="@+id/artcell_button"
+                    android:layout_marginTop="60dp"
+                    android:layout_width="161dp"
+                    android:layout_height="63dp"
+                    android:background="#050100"
+                    android:text="Artcell"
+                    android:textColor="#B81E1E"
+                    android:textColorHint="#0B0000"
+                    android:textSize="22sp"
+                    android:textStyle="bold"
+                    />
+
+        <Button
+            android:id="@+id/black_button"
+            android:layout_marginTop="60dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="161dp"
+            android:layout_height="63dp"
+            android:background="#050100"
+            android:minHeight="48dip"
+            android:text="Black"
+            android:textColor="#F6F2F2"
+            android:textSize="22sp" />
+
+        <Button
+    android:id="@+id/warfaze_button"
+    android:layout_width="161dp"
+    android:layout_height="63dp"
+    android:layout_alignParentRight="true"
+    android:layout_below="@id/black_button"
+    android:layout_marginTop="30dp"
+    android:background="#FBF9F8"
+    android:minHeight="48dip"
+    android:text="Warfaze"
+            android:textStyle="bold"
+    android:textColor="#120101"
+    android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/aurthohin_button"
+            android:layout_width="161dp"
+            android:layout_height="63dp"
+            android:layout_below="@id/artcell_button"
+            android:layout_marginTop="30dp"
+            android:background="#050100"
+            android:minHeight="48dip"
+            android:text="অর্থহীন"
+            android:textColor="#F6F2F2"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/lrb_button"
+            android:layout_width="161dp"
+            android:layout_height="63dp"
+            android:layout_below="@id/aurthohin_button"
+            android:layout_marginTop="30dp"
+            android:background="#050100"
+            android:minHeight="48dip"
+            android:text="LRB"
+            android:textColor="#F6F2F2"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:id="@+id/miles_button"
+            android:layout_width="161dp"
+            android:layout_height="63dp"
+            android:layout_below="@id/warfaze_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="30dp"
+            android:background="#000000"
+            android:minHeight="48dip"
+            android:text="Miles"
+            android:textColor="#7C1010"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/nemesis_button"
+            android:layout_width="161dp"
+            android:layout_height="63dp"
+            android:layout_below="@id/lrb_button"
+            android:layout_marginTop="30dp"
+            android:background="#050100"
+            android:minHeight="48dip"
+            android:text="NEMESIS"
+            android:textStyle="bold"
+            android:textColor="#F6F2F2"
+            android:textSize="21sp" />
+        <Button
+            android:id="@+id/crypticfate_button"
+            android:layout_width="161dp"
+            android:layout_height="63dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/miles_button"
+            android:layout_marginTop="30dp"
+            android:background="#000000"
+            android:minHeight="48dip"
+            android:text="CRYPTIC FATE"
+            android:textColor="#B81E1E"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/arbovirus_button"
+            android:layout_width="161dp"
+            android:layout_height="63dp"
+            android:layout_below="@id/nemesis_button"
+            android:layout_marginTop="30dp"
+            android:background="#548A30"
+            android:minHeight="48dip"
+            android:text="ARBOVIRUS"
+            android:textColor="#D1D11A"
+            android:textSize="21sp" />
+
+        <Button
+            android:id="@+id/shunno_button"
+            android:layout_width="161dp"
+            android:layout_height="63dp"
+            android:layout_below="@id/crypticfate_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="30dp"
+            android:background="#48337C"
+            android:minHeight="48dip"
+            android:text="SHUNNO"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+
+</RelativeLayout>

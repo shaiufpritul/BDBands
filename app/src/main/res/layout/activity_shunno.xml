@@ -1,0 +1,43 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#48337C" >
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/shunno"
+            android:layout_width="match_parent"
+            android:layout_height="282dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/shunno" />
+
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="360dp"
+            android:background="#48337C"
+            android:text="@string/shunno_text"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/shunno_spin"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="270dp"
+            android:layout_marginTop="300dp"
+            android:background="#FAF6F6"
+            android:spinnerMode="dropdown"
+            />
+
+
+    </RelativeLayout>
+
+
+</ScrollView>

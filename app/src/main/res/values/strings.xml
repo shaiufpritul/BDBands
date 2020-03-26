@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">Band Music Bangladesh</string>
+    <string name="entry_button">Enter</string>
+    <string name="action_settings">Settings</string>
+    <string name="reminder">Enter your name</string>
+
+    <string name="artcell_text">
+        Undoutedly one of the leading bands of bangladesh, Artcell,a progressive metal band formed in October 1999 by vocalist and riff guitarist George Lincoln D Costa
+        lead guitarist Ershad Zaman, bassist Saef Al Nazi Cezanne and drummer Kazi Sazzadul Asheqeen Shaju
+        Since 1999, they have released only two studio albums and also have appeared in some mixed albums.
+        The four original members of the band remained together until, in 2017. Ershad Zaman left the band
+        They pronounced Kazi Faisal Ahmed as their permanent lead guitarist on 11 November,2018
+        \n\nRecommended Songs :\nAmar Pothchola , Oniker Prantor , Odekha Shorgo , Dhushor Shomoy , Chile Kothar Shepai , Obosh Onuvutir Deyal , Tomake
+    </string>
+
+    <string name="black_text">
+        Black is a Bangladeshi rock band formed in 1998 in Dhaka originally formed by Jon Kabir (lead singer, rhythm guitars),
+        Mushfeque Jahan (lead guitars), Tamzid Siddiq (bass guitars), Tony Vincent (drums) and Tahsan Rahman Khan (keyboards)
+        who joined the band in 2000
+        After signing a contract with G-Series, Black broke through the mainstream with their debut studio album
+        "Amar Prithibi" (2002). Since then, they have released five studio albums and appeared in some mixed albums.
+        Their latest album "(Unomanush)" was released in 2016 by G-Series.
+        They were one of key rock bands of the 2000s along with Nemesis and Stentorian, who popularized alternative rock music
+        in Bangladesh.\n\nRecommended songs:\nAmar prithibi , Blues and Roud , Abar
+    </string>
+    <string name="authohin_text">
+        Aurthohin is a Bangladeshi rock band formed in Dhaka in 1998 by Saidus Sumon (vocals and bass guitar),
+        Tonmoy Rahman (lead guitar), Ponir (rhythm guitar) and Rumi Rahman (drums and percussion).
+        They are considered to be one of the pioneering band in Bangladeshi alternative rock music.
+        They have released 7 studio albums and also have appeared in some mixed albums.Though they were formed as a rock band
+        they have experimented with genres like progressive metal and groove metal.\nThey have also won many awards including Channel i and Citycell’s best band of the year award in 2008 and 2011 respectively.\n\nRecommended Songs:\nAnmone 2 , Shurjo , Odvut Shei Cheleti , Nikrishto , Cancer , Uru Uru Mon
+    </string>
+    <string name="warfaze_text">
+         Warfaze is a Bangladeshi heavy metal band formed in 1984 in Dhaka by guitarist Ibrahim Ahmed Kamal.
+        They are considered to be one of the pioneering heavy metal bands in Bangladesh along with Rockstrata.
+        Multiple changes have taken place in membership since its founding since 1984. Since their inception,
+        the band has released eight albums, including seven studio albums and one compilation album.
+        \n\nRecommended Songs :\nTomake , Naa, Hotasha , Boshe Achi Eka , Purnota , Joto Dure ,Obak Valobasha, Rupkotha , Moharaj , Emon Dine
+
+    </string>
+    <string name="lrb_text">
+        Love Runs Blind, often abbreviated as LRB, is a Bangladeshi rock band formed in 1991 in Chittagong City by Ayub Bachchu.
+        They are one of the most successful bands of Bangladesh. Since their formation, they have released thirteen studio albums,
+        one live album and two compilation albums. They have also appeared in several mixed albums.
+        They are considered to be among the pioneers of Bangladeshi hard rock music. They were originally formed as a hard rock band,
+        but have experimented with many subgenres of rock and roll.
+        \n\nRecommended Songs : Shei Tumi,Hashte Dekho,Meye,Ghumonto Shohore
+    </string>
+    <string name="miles_text">
+         Miles is one of the pioneering Bangladeshi rock band formed in Dhaka in 1979. They helped develop the style of rock music
+        in Bangladesh with their distinct Eastern musical influence fused with Western musical influences of Rock, Blues,
+        Latin jazz etc. They are widely considered as one of the most popular rock bands in Bangladesh and West Bengal.
+        They have released Ten studio albums and some compilation. The band came to public attention during the early and
+        mid 1980s public music shows in Chambeeli Super Club and Hotel Intercontinental. They were part of the Bangladeshi
+        rock scene that emerged in the early 1990s to mid 90s.
+        \n\nRecommended Songs : Neela , Jala Jala , Piyashi Mon , Firiye Dao
+    </string>
+    <string name="nemesis_text">
+        Nemesis is a Bangladeshi rock band formed in 1999 in Dhaka. They are one of the most popular rock bands in Bangladesh.
+        The band rose to mainstream fame in the late 2000s and early 2010s with their hit songs like "Obocheton", "Dhushor Bhabna",
+        "Bir" and "Kobe". They are considered to be one of the pioneers of alternative rock music in Bangladesh. Since 1999,
+        they have released three studio albums. The current line-up includes vocalist Zohad Reza Chowdhury,
+        guitarists Sultan Rafsan Khan and Zafir Haque, bassist Raqibun Nabi Ratul and drummer Dio Haque.
+        \n\nRecommended Songs : Obocheton , Kobe , Joyodhoni , Gonojowar , Janala
+    </string>
+    <string name="crypticfate_text">
+        Cryptic Fate is a Bangladeshi heavy metal band formed in 1993 in Dhaka. They are one of the pioneers of Bangladeshi metal
+        band. Since 1993, they have released four studio albums and several singles in mixed albums. The original lineup consists
+        of singer Iresh Zaker, guitarists K. Sarfaraz Latifullah and Waheduzzaman Khan, bassist Shakib Chowdhury, drummer Farshed
+        Mahmud.
+        Although, they started out as a heavy metal band, they became progressive metal in their second album.
+        Their first studio album, "Ends are Forever", was released in 1995. Their second studio album, "Sreshtho",
+        an album about the liberation war of Bangladesh, was released in 2001. In 2006, they released "Danob",
+        their third full-length effort. They released their fourth full-length studio album "Noy Mash" in 2013.
+         \n\nRecommended Songs :\nAkromon , Bhoboghure , Protibaad , Danob
+    </string>
+    <string name="arbovirus_text">
+        Arbovirus is a Bangladeshi rock band formed in 2002 in Dhaka. Their current line-up consists of vocalist Sufi Maverick,
+        guitarist Suharto Sherif and Asif Asgar Ranjan, bassist Aldnane Alam an drummer Nafeez Al Almin.
+        Their first album is titled "64minutes 53seconds". Their second album is titled "Montobyo Nishproyojon".
+        Their third album is titled "Bishesh Droshtobyo". Till now their single from the second album "Hariye Jao"
+        reached 6.5m views on YouTube.
+        \n\nRecommended Songs :\nHariye Jao , School , Shohor , Omanush
+    </string>
+    <string name="shunno_text">
+        Shunno is a Bangladeshi alternative rock band.Shunno was formed by two friends Shaker and Emil, Shaker on Guitars and
+        Emil on vocals. They had been doing music individually for a long time before and came in together to release their
+        first song towards the end of 2007. Soon enough, two additions had been made into the lineup- Michael on Bass and
+        Tanim on Drums. After continuing few months Tanim left the band due to personal reasons, and Labib joined as a drummer.
+        \n\nRecommended Songs :\nGodhulir Opare,Shoto Asha,Bedona
+    </string>
+
+
+    <string-array name="spin_artcell">
+        <item>Albums</item>
+        <item>Onno Shomoy</item>
+        <item>Oniket Prantor</item>
+    </string-array>
+
+    <string-array name="spin_black">
+    <item>Albums</item>
+    <item>Amar Prithibi</item>
+    <item>Utshober Por</item>
+    <item>Abar</item>
+    <item>Black</item>
+    <item>Unmanush</item>
+</string-array>
+
+    <string-array name="spin_aurthohin">
+        <item>Albums</item>
+        <item>Trimatrik</item>
+        <item>Biborton</item>
+        <item>Notun Diner Michile</item>
+        <item>Dhrubok</item>
+        <item>Aushomapto</item>
+        <item>Aushomapto 2</item>
+        <item>Cancer Nishikabya</item>
+    </string-array>
+
+    <string-array name="spin_lrb">
+        <item>Albums</item>
+        <item>L.R.B 1</item>
+        <item>L.R.B 2</item>
+        <item>Shukh</item>
+        <item>Tobuo</item>
+        <item>Ghumonto Shohore</item>
+    </string-array>
+
+    <string-array name="spin_warfaze">
+        <item>Albums</item>
+        <item>Warfaze</item>
+        <item>Obak Valobasha</item>
+        <item>Jibondhara</item>
+        <item>Oshamajik</item>
+        <item>Aalo</item>
+        <item>Moharaj</item>
+        <item>Pothchola</item>
+        <item>Shotto</item>
+    </string-array>
+
+    <string-array name="spin_miles">
+        <item>Albums</item>
+        <item>Miles</item>
+        <item>Protidhoni</item>
+    </string-array>
+
+    <string-array name="spin_nemesis">
+        <item>Albums</item>
+        <item>Onneshon</item>
+        <item>Tritiyo Jatra</item>
+        <item>Gonojowar</item>
+    </string-array>
+
+    <string-array name="spin_crypticfate">
+        <item>Albums</item>
+        <item>Ends are Forever</item>
+        <item>Sreshtho</item>
+        <item>Danob</item>
+        <item>Noy Mash</item>
+    </string-array>
+
+    <string-array name="spin_arbovirus">
+        <item>Albums</item>
+        <item>64m 53s</item>
+        <item>Montobbo Nishproyojon</item>
+        <item>Bishesh Droshtobyo</item>
+    </string-array>
+
+    <string-array name="spin_shunno">
+        <item>Albums</item>
+        <item>Notun Srot</item>
+        <item>Shoto Asha</item>
+        <item>Gorbo Bangladesh</item>
+        <item>Bhaago</item>
+    </string-array>
+
+
+</resources>
