@@ -18,6 +18,7 @@
     android:layout_marginLeft="20dp"
     android:layout_marginTop="15dp"
     android:layout_below="@+id/entryButtonId"
+
     />
 
     <Button

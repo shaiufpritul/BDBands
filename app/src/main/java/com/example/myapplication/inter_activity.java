@@ -112,6 +112,7 @@ public class inter_activity extends AppCompatActivity implements View.OnClickLis
         }
 
     }
+
     public void stop(View v) {
         player.stop();
     }
